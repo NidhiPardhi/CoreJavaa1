@@ -12,7 +12,7 @@ public class AskKey {
 		int i6= 'n';
 		int i7= 'N';
 		
-		System.out.println(i1+" "+i2+" "+i3+" "+i4+" "+i5+" "+i6+" "+17);
+		System.out.println(i1+" "+i2+" "+i3+" "+i4+" "+i5+" "+i6+" "+i7);
 		
 	}
 

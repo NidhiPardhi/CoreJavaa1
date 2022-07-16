@@ -23,9 +23,17 @@ public class StartEndDate {
 		System.out.println(today);
 		System.out.println(yesterday);
 	}else {
-		System.out.println("error");
+		System.err.println("error");
 	}
 	
+	if(yesterday.compareTo(today)==-1) {
+		
+		System.out.println("correct");
+	}
+	else {
+		
+		System.out.println("incorrect");
+	}
 
 }
 }
